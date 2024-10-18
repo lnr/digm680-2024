@@ -3,10 +3,6 @@ import maya.standalone
 maya.standalone.initialize()
 import maya.cmds
 
-#load Arnold plugin
-#maya.cmds.loadPlugin('mtoa')
-#print('Arnold/mtoa plugin loaded.')
-
 #arguments
 parser = argparse.ArgumentParser()
 parser.add_argument('-r', '--radius', default=1, help='Select radius for sphere.')
