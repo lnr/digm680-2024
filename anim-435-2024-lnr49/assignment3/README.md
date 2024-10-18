@@ -1,5 +1,5 @@
-# digm680-2024
-Lara's Assignments for DIGM T680 - Pipeline Class
+# digm680-2024-lnr49
+Assignment03
 
 # Overview
 `assignment3.py` is used through GitBash command line to create a sphere with a defined radius and color in a Maya scene and save the scene to the pre-determined folder.
