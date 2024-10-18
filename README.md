@@ -3,4 +3,6 @@ Lara's Assignments for DIGM T680 - Pipeline Class
 
 ```python
 #readme test
+import maya.cmds
+maya.cmds.polySphere()
 ```
